@@ -35,6 +35,8 @@ Upshirsa is a video processing tool designed to extract subtitles and transcript
 ### Gradio Interface
 
 ![Gradio Interface](images/gradio1.png)
+
+![Gradio Interface](images/gradio2.png)
 ---
 
 ## Installation
