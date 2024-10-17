@@ -1,0 +1,8 @@
+whisper
+fpdf
+srt
+yt_dlp
+moviepy
+gradio
+python-telegram-bot
+ffmpeg-python
