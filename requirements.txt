@@ -6,3 +6,4 @@ moviepy
 gradio
 python-telegram-bot
 ffmpeg-python
+imageio[ffmpeg]
